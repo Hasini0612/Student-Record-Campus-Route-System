@@ -13,12 +13,26 @@ graphs.
 
 ## Group Members
 
-| Name | Student ID | Assigned Responsibility |
-|---|---|---|
-| M.N.M. Rashad | 23DA2-1040 | Linked List implementation and student-record management |
-| M.A. Mohamed Rimas | 23DA2-0572 | Stack and Queue implementation and related operations |
-| K.J.F. Salma Jifry | 23DA2-0654 | Graph implementation, campus locations, connections, and BFS/DFS traversal |
-| G.B. Hasini Kushalya | 23DA2-0885 | BST/AVL tree implementation and hashing/search functionality |
+## Group Members
+
+### 1. M.N.M. Rashad
+- **Student ID:** 23DA2-1040
+- **Responsibility:** Linked List and Student Record Management
+
+### 2. M.A. Mohamed Rimas
+- **Student ID:** 23DA2-0572
+- **Responsibility:** Stack and Queue Operations
+
+### 3. K.J.F. Salma Jifry
+- **Student ID:** 23DA2-0654
+- **Responsibility:** Graph, Campus Connections, BFS and DFS
+
+### 4. G.B. Hasini Kushalya
+- **Student ID:** 23DA2-0885
+- **Responsibility:** BST/AVL and Hashing/Search
+
+### Shared Responsibilities
+All members contributed to integration, validation, testing, debugging, documentation, GitHub collaboration, and final project completion.
 
 **All Members:** Integration, validation, testing, debugging, documentation, 
 GitHub collaboration, and completion of the entire project.
